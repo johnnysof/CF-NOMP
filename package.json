@@ -12,9 +12,9 @@
         "litecoin",
         "scrypt"
     ],
-    "homepage": "https://github.com/zone117x/node-open-mining-portal",
+    "homepage": "https://github.com/johnnysof/CF-NOMP",
     "bugs": {
-        "url": "https://github.com/zone117x/node-open-mining-portal/issues"
+        "url": "https://github.com/johnnysof/CF-NOMP/issues"
     },
     "license": "GPL-2.0",
     "author": "Matthew Little",
